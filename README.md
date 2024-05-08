@@ -14,7 +14,7 @@
       - Mismatch/Hideth
       - Victory/Whineth
       - Ragnarok/`Tameth`
-         - [Strategic moves](https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/)
+         - [Strategic moves](https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/), [Stirr](https://www.youtube.com/watch?v=cYBgE5C4HaY) [it up](https://www.youtube.com/watch?v=S3UqvWk8-uw)!
             - Get Ilya Sutsayever from Google
             - OpenAI
             - Mandate to be open source 
