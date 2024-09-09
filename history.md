@@ -1,3 +1,0 @@
-- Can history be prevented?
-- Its an eternally recurrent cycle of the same (mismatch, victory, ragnarok)
-- Elon's trying to break the cycle. Hahahaha
